@@ -14,7 +14,6 @@ def load_data_from_csv(filename):
             data.append(data_i)
     return data, y
 
-#this code is a little different from p63.py but both of then can be used
 def knn(train_x, train_y, test_x, k_list):
     train_x = train_x.astype(np.float32)
     test_x = test_x.astype(np.float32)
