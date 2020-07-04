@@ -18,8 +18,11 @@ def estimate(train, test):
     return result
 
 def show_result(result):
-    return (np.tile(np.arange(10).T, (200, 10, 1)).T == result).sum(axis = 2)
+    confusion_matrix = np.apply_along_axis(np.bincount, 1, result, None, 10)
+    print('accuracy:,', confusion_matrix.diagonal().sum() / confusion_matrix.sum())
+    print('confusion matrix:')
+    print(confusion_matrix)
 
 train, test = load_data()
 result = estimate(train, test)
-print(show_result(result))
+show_result(result)
