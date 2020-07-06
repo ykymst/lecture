@@ -1,4 +1,4 @@
-# $k$-最近傍識別器による手書き数字認識
+# k-最近傍識別器による手書き数字認識
 
 ## データ
 - 各手書き数字データは16×16画素である.
@@ -8,5 +8,5 @@
 - 各数字の訓練データは`data/digit_train{0-9}.csv`に, 各数字のテストデータは`data/digit_test{0-9}.csv`に格納されている.
 - csvファイルの各行は, 1つの手書き数字データに対応する256個の数値である.
 
-## $k$-最近傍識別器(k-nearest neighbor classifier)
-- 近傍数$k$は, 訓練データにおける交差検証法(cross validation)により決定する.
+## k-最近傍識別器(k-nearest neighbor classifier)
+- 近傍数kは, 訓練データにおける交差検証法(cross validation)により決定する.
