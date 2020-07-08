@@ -1,0 +1,1050 @@
+insert puzzle 謎々
+insert zero 〇
+insert centralization 一元化
+insert centralized 一元的
+insert regularized 一定
+insert standardized 一定
+insert temporizing 一時逃れ
+insert popularization 一般化
+insert amazement 一驚
+insert antifreeze 不凍剤
+insert antifreeze 不凍液
+insert localization 不拡大
+insert laziness 不精
+insert lazybones 不精者
+insert disorganized 不規律
+insert fizzle 不首尾
+insert popularization 世俗化
+insert secularization 世俗化
+insert zenith 中天
+insert mid-size 中規模
+insert mezzo-soprano 中高音部
+insert monopolization 丸取り
+insert organizer 主催者
+insert zigzag 九十九折
+insert immunization 予防接種
+insert immunization 予防注射
+insert industrialization 事業化
+delete mezzo-soprano
+insert zn 亜鉛
+insert galvanized 亜鉛引き
+delete standardized
+insert cross-fertilization 交配
+insert fraternization 交驩
+insert civilization 人文
+delete fraternization
+insert extravaganza 仁輪加狂言
+insert socializing 付き合い
+delete monopolization
+insert wizard 仙
+insert wizard 仙人
+delete wizard
+insert doze 仮眠
+delete centralized
+insert commercialization 企業化
+delete cross-fertilization
+insert laziness 休怠
+insert dmz 休戦地帯
+delete zenith
+insert rendezvous 会う約束
+delete industrialization
+insert citizens 住民
+delete civilization
+insert organization 体制
+delete puzzle
+insert realization 体得
+delete mid-size
+insert organization 体系
+delete zigzag
+insert organization 体系化
+insert systematization 体系化
+delete regularized
+insert utilization 使用
+delete socializing
+insert popularization 俗化
+delete utilization
+insert secularization 俗化
+insert magazine 倉
+insert individualization 個別化
+delete centralization
+insert itemization 個条書き
+delete systematization
+insert polarization 偏り
+delete organizer
+insert polarization 偏光
+delete doze
+insert gormandizer 健啖家
+delete amazement
+insert idolization 偶像化
+delete citizens
+insert idolization 偶像視
+insert idolizing 傾倒
+insert amortization 償却
+insert amortization 償還
+delete zn
+insert immunization 免疫
+delete amortization
+insert prize-winner 入賞者
+delete temporizing
+insert maze 八幡の薮知らず
+insert maze 八幡知らず
+insert citizen 公民
+delete idolizing
+insert citizenship 公民権
+delete immunization
+insert notarization 公証
+insert authorization 公認
+delete magazine
+insert communization 共産化
+delete maze
+insert waltz 円舞
+delete citizen
+insert refreeze 再封鎖
+delete zero
+insert reorganization 再構成
+delete gormandizer
+insert reorganization 再組織
+delete realization
+insert reorganizatiom 再組織
+delete prize-winner
+insert reorganizatioo 再組織
+delete rendezvous
+insert reorganization 再編
+insert reorganization 再編成
+delete disorganized
+insert reorganization 再設
+insert freezing 冷たい
+insert freezer 冷凍器
+delete commercialization
+insert freezer 冷凍室
+delete itemization
+insert freezer 冷凍庫
+insert amazing 凄じい
+delete reorganization
+insert amazing 凄まじい
+delete freezing
+insert frozen 凍結
+insert freezer 凍結器
+delete authorization
+insert freeze 凝
+insert freezing 凝固
+delete reorganizatiom
+insert freezing 凝結
+delete fizzle
+insert gaze 凝視
+delete idolization
+insert rendezvous 出会い
+delete waltz
+insert haphazard 出鱈目
+insert specialization 分化
+insert polarization 分極
+delete citizenship
+insert enzyme 分注
+insert initialization 初期設定
+delete freezer
+insert puzzle 判じ物
+delete dmz
+insert utilization 利用
+insert organization 制度
+insert tweezers 刺抜き
+insert razor 剃刀
+delete gaze
+insert organization 創立
+insert organizer 創立者
+delete enzyme
+insert organization 創設
+delete specialization
+insert standardization 劃一
+insert dramatization 劇化
+insert quiz 力試し
+delete freezing
+insert vulcanization 加硫法
+delete galvanized
+insert animalization 動物化
+delete razor
+insert zoology 動物学
+delete initialization
+insert zoolatry 動物崇拝
+delete popularization
+insert bazaar 勧工場
+delete utilization
+insert bazar 勧工場
+delete communization
+insert fossilization 化石
+delete polarization
+insert zone 区域
+delete puzzle
+insert half-size 半切
+delete bazaar
+insert half-crazed 半狂乱
+delete dramatization
+insert semicivilized 半開
+delete individualization
+insert organization 協会
+insert authorization 協賛
+delete bazar
+insert hazard 危険
+delete quiz
+insert hazard 危難
+delete semicivilized
+insert improvization 即吟
+delete half-crazed
+insert brazen 厚かましい
+delete zone
+insert protozoa 原始動物
+delete frozen
+insert protozoan 原生動物
+delete secularization
+insert protozoan 原虫
+delete half-size
+insert fertilization 受粉
+delete rendezvous
+insert fertilization 受胎
+insert prize-winner 受賞者
+insert plasticizer 可塑剤
+delete notarization
+insert solubilizing 可溶
+delete animalization
+insert trapezoid 台形
+delete fertilization
+insert amazement 吃驚
+delete brazen
+insert legalization 合法化
+delete solubilizing
+insert rationalize 合理化
+insert sympathizer 同情者
+delete laziness
+insert synchronization 同期式
+delete protozoan
+insert sympathizer 同調者
+delete lazybones
+insert commercialization 商業化
+delete amazing
+insert commercialization 商用化
+insert wheezing 喘ぎ
+delete commercialization
+insert amazement 喫驚
+delete authorization
+insert commercialized 営利
+delete freeze
+insert atomizer 噴霧器
+insert vaporizer 噴霧器
+delete atomizer
+insert szechwan 四川
+delete tweezers
+insert organization 団体
+delete zoology
+insert citizenship 国勢
+delete commercialized
+insert citizen 国民
+delete standardization
+insert internationalization 国際化
+insert piezoelectricity 圧電気
+delete protozoa
+insert rhizome 地下茎
+delete organizer
+insert gazetteer 地名辞典
+delete trapezoid
+insert zone 地帯
+delete rationalize
+insert horizon 地平線
+delete szechwan
+insert bonze 坊主
+delete plasticizer
+insert haphazard 場当たり
+delete hazard
+insert multilingualization 多言語化
+delete synchronization
+insert size 大きさ
+insert size 大小
+delete size
+insert bonanza 大当たり
+delete bonanza
+insert bonanza 大当り
+delete citizen
+insert horizon 天際
+insert zenith 天頂
+delete vulcanization
+insert zenith 天頂点
+delete antifreeze
+insert brazen 太太しい
+insert bizarre 奇々怪々
+insert bizarre 奇奇怪怪
+delete wheezing
+insert bizarre 奇怪千万
+insert bizarre 奇想天外
+delete bizarre
+insert amazons 娘子軍
+insert mordantizing 媒染
+delete bonanza
+insert rendezvous 媾曳
+delete legalization
+insert rendezvous 媾曳き
+delete amazement
+insert stabilizer 安定器
+delete organization
+insert benzoin 安息香
+insert cozy 安楽
+insert bureaucratization 官僚化
+delete multilingualization
+insert materialization 実体化
+delete benzoin
+insert materialization 実現
+delete extravaganza
+insert realization 実現
+delete zenith
+insert realization 実行
+delete haphazard
+insert size 寸法
+insert diagonalization 対角化
+insert specialization 専修
+delete fossilization
+insert miniaturization 小型化
+delete stabilizer
+insert drizzle 小降り
+delete size
+insert drizzle 小雨
+delete gazetteer
+insert localize 局限
+delete localization
+insert cozy 居心地がよい
+delete bonze
+insert colonizers 屯田兵
+delete materialization
+insert seizure 差し押え
+delete reorganizatioo
+insert citizen 市民
+delete localize
+insert citizenship 市民権
+insert zone 帯域
+delete internationalization
+insert naturalization 帰化
+delete zoolatry
+insert equalization 平衡
+insert hazy 幽か
+insert plaza 広場
+delete seizure
+insert hazy 微か
+delete prize-winner
+insert zephyr 微風
+insert rendezvous 忍び逢い
+delete specialization
+insert magazine 志集
+insert laziness 怠惰
+delete equalization
+insert zoom 急上昇
+delete citizen
+insert zeal 情熱
+insert sensitization 感光
+delete zoom
+insert laziness 懈怠
+delete miniaturization
+insert realization 成就
+insert haphazardly 手当たり次第
+delete drizzle
+insert seizure 手捕り
+insert criticizing 批議
+delete haphazardly
+insert seizure 押収
+insert colonization 拓殖
+delete mordantizing
+insert sympathize 拝察
+delete realization
+insert zoroastrianism 拝火教
+delete seizure
+insert prizefighting 拳闘
+delete citizenship
+insert seizure 拿捕
+insert solemnization 挙行
+delete seizure
+insert seizure 捕捉
+delete sympathizer
+insert seizure 捕獲
+delete bureaucratization
+insert seizing 掌握
+delete amazons
+insert grazing 掠り
+insert squeezing 掠り
+delete seizing
+insert graze 掠り傷
+delete grazing
+insert squeezing 搾取
+delete squeezing
+insert graze 擦り傷
+delete improvization
+insert graze 擦傷
+insert reorganization 改廃
+insert reorganization 改組
+delete colonizers
+insert reorganization 改編
+delete refreeze
+insert reorganization 改装
+insert grazing 放牧
+delete zeal
+insert civilization 教化
+delete reorganization
+insert well-organized 整然
+delete magazine
+insert civilization 文化
+insert civilization 文明
+insert sterilization 断種
+insert fertilization 施肥
+delete grazing
+insert appetizing 旨い
+insert dazzling 晃々たる
+delete well-organized
+insert dazzling 晃晃たる
+insert uncivilized 曚昧
+delete dazzling
+insert reorganization 更生
+delete brazen
+insert maximization 最大化
+insert minimization 最小化
+delete zoroastrianism
+insert optimization 最適化
+delete prizefighting
+insert sympathizer 有志
+delete horizon
+insert hazy 有耶無耶
+delete solemnization
+insert hazy 朦朧
+delete rendezvous
+insert hazy 朦朧たる
+insert unorganized 未組織
+insert uncivilized 未開
+insert citizen 本国人
+insert trapezoid 梯形
+delete sensitization
+insert zenith 極
+delete hazy
+insert generalization 概括
+delete laziness
+insert howitzer 榴弾砲
+delete diagonalization
+insert standardization 標定
+delete trapezoid
+insert standardization 標準化
+delete criticizing
+insert horizontally 横に
+delete horizontally
+insert seizure 横取り
+delete uncivilized
+insert embezzlement 横奪
+delete maximization
+insert laziness 横着
+insert embezzlement 横領
+delete plaza
+insert mechanization 機化
+delete citizen
+insert mechanized 機械仕掛け
+delete cozy
+insert mechanization 機械化
+delete optimization
+insert organization 機構
+delete vaporizer
+insert europeanization 欧化
+insert westernization 欧化
+delete organization
+insert authorized 欽定
+insert regularization 正則化
+delete unorganized
+insert normalization 正常化
+delete fertilization
+insert tantalized 歯痒い
+delete authorized
+insert fuzz 毛羽
+delete standardization
+insert democratize 民主化
+delete colonization
+insert privatization 民営化
+delete tantalized
+insert vaporizer 気化器
+delete sympathizer
+insert horizon 水平
+delete seizure
+insert horizon 水平線
+delete reorganization
+insert freeze 氷結
+delete sterilization
+insert denizen 永住者
+delete civilization
+insert bonze 法師
+insert influenza 流行性感冒
+delete appetizing
+insert buzzword 流行言葉
+insert sterilization 消毒
+delete europeanization
+insert hazy 漠然たる
+delete influenza
+insert blaze 火
+delete zephyr
+insert blaze 火の手
+delete rhizome
+insert blaze 火炎
+delete naturalization
+insert blaze 火焔
+delete howitzer
+insert brazier 火鉢
+insert blaze 炎
+delete freeze
+insert blaze 焔
+insert zero 無
+insert laziness 無精
+delete piezoelectricity
+insert pasteurized 無菌
+delete laziness
+insert haphazard 無計画
+insert glazing 焼付け
+delete graze
+insert dazzling 煌びやか
+delete minimization
+insert haze 煙霧
+delete normalization
+insert scrutinizing 熟視
+insert zeal 熱中
+delete mechanization
+insert zeal 熱意
+delete haze
+insert zeal 熱血
+insert blazing 爛爛たる
+delete embezzlement
+insert customized 特装
+delete democratize
+insert frenzy 狂乱
+delete fuzz
+insert frenzy 狂暴
+delete glazing
+insert monopolization 独り舞台
+delete zone
+insert small-sized 狭小
+insert zodiac 獣帯
+insert materialization 現れ
+delete pasteurized
+insert materialization 現われ
+delete vaporizer
+insert switzerland 瑞西
+delete mechanized
+insert azure 瑠璃色
+delete generalization
+insert brazen 生意気
+delete sterilization
+insert reorganization 甦生
+delete westernization
+insert man-crazy 男狂い
+delete blaze
+insert standardization 画一
+delete zodiac
+insert standardization 画一主義
+delete zenith
+insert standardization 画一化
+insert conceptualization 発想
+delete horizon
+insert utilization 発揮
+delete bonze
+insert craziness 発狂
+delete utilization
+insert zinnia 百日草
+delete materialization
+insert dizzy 目まぐるしい
+insert dazzling 眩しい
+delete brazier
+insert embezzlement 着服
+delete customized
+insert uncivilized 矇昧
+insert fossilization 石化
+delete buzzword
+insert quartz 石英
+delete denizen
+insert gizzard 砂袋
+delete embezzlement
+insert muzzle 砲門
+insert vulcanization 硬化
+delete monopolization
+insert kamikaze 神風
+delete dizzy
+insert prize 秘蔵
+delete zero
+insert crazy 突拍子もない
+delete fossilization
+insert crazy 突拍子も無い
+delete crazy
+insert embezzlement 窃用
+insert assize 立法府
+delete assize
+insert fudezukuri 筆旁
+delete reorganization
+insert life-size 等身大
+delete hazy
+insert life-sized 等身大
+delete uncivilized
+insert muzzle 筒先
+delete craziness
+insert itemization 箇条書
+delete frenzy
+insert itemization 箇条書き
+insert schizophrenia 精神分裂症
+insert systemize 系列化
+delete prize
+insert azure 紺碧
+delete quartz
+insert organization 組み立て
+delete haphazard
+insert organization 組立
+insert reorganization 組織再編
+delete systemize
+insert systematization 組織化
+insert realization 結実
+insert crystallization 結晶
+delete regularization
+insert dazzling 絢爛
+delete reorganization
+insert dazzling 絢爛豪華
+delete zeal
+insert dazzling 綺羅びやか
+insert fuzz 綿毛
+delete crystallization
+insert generalize 総括
+delete small-sized
+insert horizon 線上
+insert organization 編成
+delete horizon
+insert zebra 縞馬
+insert renormalization 繰り込み
+delete switzerland
+insert zigzag 羊腸
+delete organization
+insert buzz 羽音
+delete renormalization
+insert lao-tzu 老子
+delete buzz
+insert quiz 考査
+delete fuzz
+insert fertilizer 肥
+delete sympathize
+insert fertilizer 肥やし
+insert fertilizer 肥料
+delete man-crazy
+insert dramatizer 脚色者
+delete kamikaze
+insert desulphurization 脱硫
+insert decolorization 脱色
+delete zinnia
+insert motorized 自動車化
+delete zebra
+insert soliloquizing 自問自答
+delete embezzlement
+insert liberalization 自由化
+delete privatization
+insert decolorization 色抜き
+delete life-sized
+insert decolourization 色抜き
+insert glaze 艶
+delete lao-tzu
+insert glazing 艶出し
+delete glaze
+insert trailblazer 草分け
+delete fertilizer
+insert lespedeza 萩
+delete standardization
+insert zigzag 葛折り
+delete scrutinizing
+insert uncivilized 蒙昧
+delete brazen
+insert magazine 蔵
+insert reorganization 蘇生
+delete desulphurization
+insert lizard 蜥蜴
+delete fudezukuri
+insert victimization 血祭り
+delete gizzard
+insert haphazard 行きあたりばったり
+insert haphazard 行き当たりばったり
+delete zigzag
+insert mobilization 行動
+delete uncivilized
+insert prize 褒美
+insert prize 褒賞
+delete realization
+insert standardization 規格化
+insert visualization 視覚化
+delete motorized
+insert memorizing 記誦
+delete liberalization
+insert magazine 誌
+delete blazing
+insert cognizance 認識
+delete systematization
+insert moralizing 説法
+insert memorization 諳誦
+delete generalize
+insert puzzle 謎
+delete puzzle
+insert realization 貫徹
+delete decolorization
+insert prize 賞
+delete victimization
+insert prize 賞与
+delete haphazard
+insert prize 賞品
+delete lizard
+insert prizing 賞美
+insert unauthorized 越権
+insert azalea 躑躅
+delete glazing
+insert motorized 車両化
+delete life-size
+insert militarization 軍隊化
+delete mobilization
+insert modernize 近代化
+insert maze 迷宮
+delete motorized
+insert crazy 逆噴射
+delete crazy
+insert rendezvous 逢い引き
+delete quiz
+insert rendezvous 逢引
+delete muzzle
+insert rendezvous 逢引き
+delete azure
+insert secularization 還俗
+insert enzyme 酵素
+delete conceptualization
+insert enzymology 酵素学
+insert zymosis 醗酵
+delete decolourization
+insert bizarre 醜怪
+delete militarization
+insert zymurgy 醸造学
+delete magazine
+insert glaze 釉薬
+delete zymosis
+insert uncivilized 野蛮
+delete enzymology
+insert quantization 量子化
+delete dazzling
+insert muzzle 銃口
+delete trailblazer
+insert lozenge 錠
+delete azalea
+insert lozenge 錠剤
+delete memorizing
+insert tranquilizer 鎮痛剤
+delete prize
+insert tranquilizer 鎮静剤
+insert civilization 開化
+delete vulcanization
+insert liberalization 開放
+insert civilization 開明
+delete cognizance
+insert colonization 開発途上国
+delete standardization
+insert deodorizer 防臭剤
+delete uncivilized
+insert hazardous 際どい
+delete lespedeza
+insert hazardous 際疾い
+delete schizophrenia
+insert zigzag 雁木
+delete glaze
+insert decentralization 集権排除
+delete zigzag
+insert summarize 集約
+delete itemization
+insert summarized 集約
+delete moralizing
+insert magazine 雑誌
+delete tranquilizer
+insert zero 零
+delete decentralization
+insert sub-zero 零下
+delete quantization
+insert freezing-point 零度
+delete sub-zero
+insert atomizer 霧吹き
+delete dramatizer
+insert czar 露帝
+delete rendezvous
+insert haze 靄
+insert bronze 青銅
+delete zero
+insert bronzed 青銅色
+insert actualized 顕在
+delete summarized
+insert breeze 風
+delete lozenge
+insert amazing 驚くべき
+delete zymurgy
+insert amazing 驚天動地
+delete prizing
+insert laziness 骨惜しみ
+delete modernize
+insert wizard 魔法使い
+delete soliloquizing
+insert seizure 鹵獲
+insert topaz 黄玉
+delete muzzle
+insert topaz 黄玉石
+insert zodiac 黄道帯
+delete secularization
+insert muzzle 鼻面
+delete unauthorized
+insert chimpanzee 黒猩々
+delete summarize
+search actualized
+search amazement
+search amazing
+search amazons
+search amortization
+search animalization
+search antifreeze
+search appetizing
+search assize
+search atomizer
+search authorization
+search authorized
+search azalea
+search azure
+search bazaar
+search bazar
+search benzoin
+search bizarre
+search blaze
+search blazing
+search bonanza
+search bonze
+search brazen
+search brazier
+search breeze
+search bronze
+search bronzed
+search bureaucratization
+search buzz
+search buzzword
+search centralization
+search centralized
+search chimpanzee
+search citizen
+search citizens
+search citizenship
+search civilization
+search cognizance
+search colonization
+search colonizers
+search commercialization
+search commercialized
+search communization
+search conceptualization
+search cozy
+search craziness
+search crazy
+search criticizing
+search cross-fertilization
+search crystallization
+search customized
+search czar
+search dazzling
+search decentralization
+search decolorization
+search decolourization
+search democratize
+search denizen
+search deodorizer
+search desulphurization
+search diagonalization
+search disorganized
+search dizzy
+search dmz
+search doze
+search dramatization
+search dramatizer
+search drizzle
+search embezzlement
+search enzyme
+search enzymology
+search equalization
+search europeanization
+search extravaganza
+search fertilization
+search fertilizer
+search fizzle
+search fossilization
+search fraternization
+search freeze
+search freezer
+search freezing
+search freezing-point
+search frenzy
+search frozen
+search fudezukuri
+search fuzz
+search galvanized
+search gaze
+search gazetteer
+search generalization
+search generalize
+search gizzard
+search glaze
+search glazing
+search gormandizer
+search graze
+search grazing
+search half-crazed
+search half-size
+search haphazard
+search haphazardly
+search hazard
+search hazardous
+search haze
+search hazy
+search horizon
+search horizontally
+search howitzer
+search idolization
+search idolizing
+search immunization
+search improvization
+search individualization
+search industrialization
+search influenza
+search initialization
+search internationalization
+search itemization
+search kamikaze
+search lao-tzu
+search laziness
+search lazybones
+search legalization
+search lespedeza
+search liberalization
+search life-size
+search life-sized
+search lizard
+search localization
+search localize
+search lozenge
+search magazine
+search man-crazy
+search materialization
+search maximization
+search maze
+search mechanization
+search mechanized
+search memorization
+search memorizing
+search mezzo-soprano
+search mid-size
+search militarization
+search miniaturization
+search minimization
+search mobilization
+search modernize
+search monopolization
+search moralizing
+search mordantizing
+search motorized
+search multilingualization
+search muzzle
+search naturalization
+search normalization
+search notarization
+search optimization
+search organization
+search organizer
+search pasteurized
+search piezoelectricity
+search plasticizer
+search plaza
+search polarization
+search popularization
+search privatization
+search prize
+search prize-winner
+search prizefighting
+search prizing
+search protozoa
+search protozoan
+search puzzle
+search quantization
+search quartz
+search quiz
+search rationalize
+search razor
+search realization
+search refreeze
+search regularization
+search regularized
+search rendezvous
+search renormalization
+search reorganizatiom
+search reorganization
+search reorganizatioo
+search rhizome
+search schizophrenia
+search scrutinizing
+search secularization
+search seizing
+search seizure
+search semicivilized
+search sensitization
+search size
+search small-sized
+search socializing
+search solemnization
+search soliloquizing
+search solubilizing
+search specialization
+search squeezing
+search stabilizer
+search standardization
+search standardized
+search sterilization
+search sub-zero
+search summarize
+search summarized
+search switzerland
+search sympathize
+search sympathizer
+search synchronization
+search systematization
+search systemize
+search szechwan
+search tantalized
+search temporizing
+search topaz
+search trailblazer
+search tranquilizer
+search trapezoid
+search tweezers
+search unauthorized
+search uncivilized
+search unorganized
+search utilization
+search vaporizer
+search victimization
+search visualization
+search vulcanization
+search waltz
+search well-organized
+search westernization
+search wheezing
+search wizard
+search zeal
+search zebra
+search zenith
+search zephyr
+search zero
+search zigzag
+search zinnia
+search zn
+search zodiac
+search zone
+search zoolatry
+search zoology
+search zoom
+search zoroastrianism
+search zymosis
+search zymurgy
+search NONEXISTINGKEY
+quit
+
+

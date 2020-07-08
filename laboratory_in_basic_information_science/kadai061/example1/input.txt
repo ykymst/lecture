@@ -1,0 +1,17 @@
+insert orange オレンジ
+insert apple リンゴ
+insert grape 葡萄
+insert pear 梨
+insert strawberry 苺
+insert raspberry 木苺
+insert fig 無花果
+insert kaki 柿
+insert apricot 杏
+insert peach 桃
+search apricot
+insert orange 蜜柑
+search orange
+delete orange
+search orange
+search kaki
+quit
